@@ -71,6 +71,12 @@ Engineering Graduate  2010-14,  First Division
 [Regression based projects](#regression-based-projects) <br>
 
 <!-- Add your details -->
+#### Hackathon and Capstone Projects
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+
+In hackathon and captone projects, there are xxx xxxx.
+
+[Click here to view information](https://google.com)
 
 #### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
