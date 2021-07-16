@@ -41,6 +41,13 @@ UNIT: BCG GAMMA
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
+DATA ANALYST<br>
+January-2017 to May-2019: 2 years 4 Months
+
+ROLE: Junior Data Analyst/ Assistant Data Analyst/ Data Analyst
+UNIT: ABC Engineering Limited
+
+Working on various analytics based cases that facilitates clients for business process improvement. Involved in data analysis using model built/formula developed on a huge amount of text, time-series data, images and other forms of unstructured data.
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
