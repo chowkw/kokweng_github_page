@@ -55,7 +55,7 @@ Working on various analytics based cases that facilitates clients for business p
 ### EDUCATION
 <!-- Add your details -->
 ##### BCG RISE Digital Academy Singapore
-Business and Data Analyst Graduate  Apr-2021 to Oct-2021,  Merit Certication
+Business and Data Analyst Graduate  Apr-2021 to Oct-2021,  Merit Certification
 
 ##### LNCT Bhopal
 Engineering Graduate  2010-14,  First Division
@@ -64,9 +64,10 @@ Engineering Graduate  2010-14,  First Division
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
 <!-- Add your details -->
-Hackathon and Capstone Projects
+[Hackathon and Capstone Projects](#hackathon-and-capstone-projects) <br>
 
 [Classification based projects](#classification-based-projects) <br>
+
 [Regression based projects](#regression-based-projects) <br>
 
 <!-- Add your details -->
