@@ -19,6 +19,7 @@
 
 I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
 
+Attending BCG RISE 6-month business and data analytics course from Apr to Oct 2021.
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
