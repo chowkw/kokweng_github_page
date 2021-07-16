@@ -70,6 +70,8 @@ Engineering Graduate  2010-14,  First Division
 
 [Regression based projects](#regression-based-projects) <br>
 
+<br>
+<br>
 <!-- Add your details -->
 #### Hackathon and Capstone Projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
@@ -78,6 +80,7 @@ In hackathon and captone projects, there are xxx xxxx.
 
 [Click here to view information](https://google.com)
 
+<br>
 #### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
@@ -85,6 +88,7 @@ In machine learning, classification refers to a predictive modeling problem wher
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
+<br>
 #### Regression based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
 
