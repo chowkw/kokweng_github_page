@@ -98,7 +98,7 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-i)  Machine Learning by Columbia University, United States
+i)  Machine Learning by Columbia University, United States <br>
 ii)  Xxx Xxxxx Xxxx by LMN Institute, India
 
 ##### Achievements
