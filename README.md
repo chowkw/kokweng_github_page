@@ -54,14 +54,17 @@ Working on various analytics based cases that facilitates clients for business p
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### BCG RISE Digital Academy Singapore
+Business and Data Analyst Graduate  Apr-2021 to Oct-2021,  Merit Certication
 
+##### LNCT Bhopal
+Engineering Graduate  2010-14,  First Division
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
 <!-- Add your details -->
+Hackathon and Capstone Projects
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
